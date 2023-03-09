@@ -1,0 +1,29 @@
+.App {
+	font-family: "Roboto Condensed", sans-serif;
+}
+header {
+	background-color: aqua;
+	display: flex;
+	justify-content: flex-start;
+	padding-left: 5rem;
+	font-weight: 300;
+}
+h1 {
+	font-size: 75px;
+}
+h2,
+h3 {
+	font-weight: 300;
+}
+.user-card {
+	padding-left: 5rem;
+}
+.footer {
+	background-color: aqua;
+	display: flex;
+	justify-content: center;
+}
+.prereqs-list {
+	padding-left: 5rem;
+	list-style-type: none;
+}
